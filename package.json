@@ -3,7 +3,7 @@
 	"version": "3.11.0",
 	"author": {
 		"name": "dpembo",
-		"email": "reg@pembo.co.uk"
+		"email": "noreply@pembo.io"
 	},
 	"description": "node-red nodes for interacting with alexa",
 	"keywords": [
